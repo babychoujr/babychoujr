@@ -27,9 +27,9 @@ Hi, I'm Eric. I am currently a senior computer science major at the University o
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
 <br />
-<!--
+
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=babychoujr&show_icons=true&theme=onedark)
--->
+
 
 
 [facebook]:https://www.facebook.com/eric.chou.127/

@@ -14,13 +14,15 @@
 - 📫 How to reach me: ...
 
 ### Connect with me:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<p>
-  <a href="www.facebook.com" class="fa fa-facebook"></a>
-  </a>
-</p>
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Languages/Tools I use:
 
 <!--
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=babychoujr&show_icons=true&theme=onedark)
 -->
+
+
+[facebook]:https://www.facebook.com/eric.chou.127/
+[linkedin]:https://www.linkedin.com/in/eric-chou-b2814717a/

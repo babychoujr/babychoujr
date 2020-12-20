@@ -5,8 +5,7 @@
 -->
 
 ### Welcome to my Github Profile!
-Hi, I'm Eric. I am currently a senior computer science major at the University of California, Irvine. I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval. Some projects I am working on are a Supreme Bot and a keyphrase identification model used to classify large datasets of text.  I hope to use my knowledge to create software used for primarily financial growth and everyday use.
-
+Hi, I'm Eric. I am currently a senior computer science major at the University of California, Irvine. I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval. Some projects I am working on are a Supreme Bot and a keyphrase identification model used to classify large datasets of text. 
 ### Some Goals:
 - 🔭 I’m currently working on obtaining the Google TensorFlow Certificate.
 - 🔭 Creating a classification model without using a pretrained model.

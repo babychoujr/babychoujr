@@ -28,8 +28,10 @@ Hi, I'm Eric. I am currently a senior computer science major at the University o
 
 <br />
 
+### My Stats:
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=babychoujr&show_icons=true&theme=onedark)
 
+<br />
 
 
 [facebook]:https://www.facebook.com/eric.chou.127/

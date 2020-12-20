@@ -12,11 +12,13 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ###Connect with me:
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<p>
+  <a href="www.facebook.com" class="fa fa-facebook"></a>
+  </a>
+</p>
 ###Languages/Tools I use:
 
 <!--

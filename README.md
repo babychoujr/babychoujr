@@ -8,7 +8,6 @@
 Hi, I'm Eric. I am currently a senior computer science major at the University of California, Irvine. I am interested in becoming a software engineer in the future focused on the fields of AI, machine learning, and information retrieval. 
 ### Some Goals:
 - 🔭 Working on creating my Supreme bot. 
-- 🔭 Competing in the Jane Street Stock Market Predictor Competition on Kaggle
 - 🔭 Working on different coding competitions.
 
 ### Connect with me:
